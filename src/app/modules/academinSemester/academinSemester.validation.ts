@@ -1,22 +1,26 @@
 import { z } from 'zod'
-import { code, month, title } from './academicSemester.constant'
+import {
+  academicSemesterCode,
+  academicSemesterMonth,
+  academicSemesterTitle,
+} from './academicSemester.constant'
 
 const createAcademicSemesterZodSchema = z.object({
   body: z.object({
-    title: z.enum(title, {
+    title: z.enum([...academicSemesterTitle] as [string, ...string[]], {
       required_error: 'title is required',
     }),
     year: z.number({
       required_error: 'year is required',
     }),
-    code: z.enum(code, {
+    code: z.enum([...academicSemesterCode] as [string, ...string[]], {
       required_error: 'code is required',
     }),
-    startMonth: z.enum(month, {
+    startMonth: z.enum([...academicSemesterMonth] as [string, ...string[]], {
       required_error: 'start month is required',
     }),
-    endMonth: z.enum(month, {
-      required_error: 'title is required',
+    endMonth: z.enum([...academicSemesterMonth] as [string, ...string[]], {
+      required_error: 'end month is required',
     }),
   }),
 })

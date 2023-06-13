@@ -3,14 +3,20 @@ import {
   IAcademinSemester,
   AcademicSemesterModel,
 } from './academinSemester.interface'
-import { code, month, title } from './academicSemester.constant'
+import {
+  academicSemesterCode,
+  academicSemesterMonth,
+  academicSemesterTitle,
+} from './academicSemester.constant'
+import ApiError from '../../../errors/ApiError'
+import status from 'http-status'
 
 const academicSemesterSchema = new Schema<IAcademinSemester>(
   {
     title: {
       type: String,
       required: true,
-      enum: title,
+      enum: academicSemesterTitle,
     },
     year: {
       type: Number,
@@ -19,23 +25,35 @@ const academicSemesterSchema = new Schema<IAcademinSemester>(
     code: {
       type: String,
       required: true,
-      enum: code,
+      enum: academicSemesterCode,
     },
     startMonth: {
       type: String,
       required: true,
-      enum: month,
+      enum: academicSemesterMonth,
     },
     endMonth: {
       type: String,
       required: true,
-      enum: month,
+      enum: academicSemesterMonth,
     },
   },
   {
     timestamps: true,
   }
 )
+
+academicSemesterSchema.pre('save', async function (next) {
+  const isExit = await AcademicSemester.findOne({
+    title: this.title,
+    year: this.year,
+  })
+
+  if (isExit) {
+    throw new ApiError(status.CONFLICT, 'academic semester already exit !')
+  }
+  next()
+})
 
 export const AcademicSemester = model<IAcademinSemester, AcademicSemesterModel>(
   'AcademicSemester',
