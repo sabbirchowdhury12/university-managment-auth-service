@@ -1,0 +1,141 @@
+Tue Jun 13 2023  17:40:13 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:40:13 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:41:16 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:41:16 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:41:22 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:41:22 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:41:26 [right meow!] info: globalErrorHandler [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "received": "01",
+    "code": "invalid_enum_value",
+    "options": [
+      "01 ",
+      "02",
+      "03"
+    ],
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Invalid enum value. Expected '01 ' | '02' | '03', received '01'"
+  },
+  {
+    "received": "january",
+    "code": "invalid_enum_value",
+    "options": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "path": [
+      "body",
+      "startMonth"
+    ],
+    "message": "Invalid enum value. Expected 'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December', received 'january'"
+  }
+]
+Tue Jun 13 2023  17:42:9 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:42:9 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:42:58 [right meow!] info: globalErrorHandler [
+  {
+    "received": "01",
+    "code": "invalid_enum_value",
+    "options": [
+      "01 ",
+      "02",
+      "03"
+    ],
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Invalid enum value. Expected '01 ' | '02' | '03', received '01'"
+  },
+  {
+    "received": "january",
+    "code": "invalid_enum_value",
+    "options": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "path": [
+      "body",
+      "startMonth"
+    ],
+    "message": "Invalid enum value. Expected 'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December', received 'january'"
+  }
+]
+Tue Jun 13 2023  17:43:23 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:43:23 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:45:12 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:45:12 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:46:52 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:46:52 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:48:18 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:48:18 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:48:29 [right meow!] info: globalErrorHandler [
+  {
+    "received": "january",
+    "code": "invalid_enum_value",
+    "options": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "path": [
+      "body",
+      "startMonth"
+    ],
+    "message": "Invalid enum value. Expected 'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December', received 'january'"
+  }
+]
+Tue Jun 13 2023  17:48:45 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:48:45 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:49:33 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:49:33 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:49:54 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:49:54 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:50:57 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:50:57 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:58:7 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:58:7 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  17:58:21 [right meow!] info: database connect successfully
+Tue Jun 13 2023  17:58:21 [right meow!] info: app listening on port 5000

@@ -1,0 +1,29 @@
+Tue Jun 13 2023  18:0:20 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:0:20 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:0:27 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:0:27 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:0:53 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:0:53 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:0:54 [right meow!] info: globalErrorHandler AcademicSemester validation failed: endMonth: Path `endMonth` is required., startMonth: Path `startMonth` is required., code: Path `code` is required., year: Path `year` is required., title: Path `title` is required.
+Tue Jun 13 2023  18:1:38 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:1:38 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:1:39 [right meow!] info: globalErrorHandler AcademicSemester validation failed: endMonth: Path `endMonth` is required., startMonth: Path `startMonth` is required., code: Path `code` is required., year: Path `year` is required., title: Path `title` is required.
+Tue Jun 13 2023  18:2:4 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:2:4 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:2:6 [right meow!] info: globalErrorHandler AcademicSemester validation failed: endMonth: Path `endMonth` is required., startMonth: Path `startMonth` is required., code: Path `code` is required., year: Path `year` is required., title: Path `title` is required.
+Tue Jun 13 2023  18:2:16 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:2:16 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:3:3 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:3:3 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:3:14 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:3:14 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:28:49 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:28:49 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:32:41 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:32:41 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:32:51 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:32:51 [right meow!] info: app listening on port 5000
+Tue Jun 13 2023  18:34:51 [right meow!] info: globalErrorHandler academic semester already exit !
+Tue Jun 13 2023  18:35:22 [right meow!] info: globalErrorHandler academic semester already exit !
+Tue Jun 13 2023  18:35:31 [right meow!] info: database connect successfully
+Tue Jun 13 2023  18:35:31 [right meow!] info: app listening on port 5000
