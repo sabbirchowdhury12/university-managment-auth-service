@@ -1,0 +1,63 @@
+Wed Jun 21 2023  19:8:42 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:8:42 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:10:39 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:10:39 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:11:5 [right meow!] info: globalErrorHandler $and/$or/$nor must be a nonempty array
+Wed Jun 21 2023  19:11:11 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:11:11 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:11:13 [right meow!] info: globalErrorHandler $and/$or/$nor must be a nonempty array
+Wed Jun 21 2023  19:11:58 [right meow!] info: globalErrorHandler $and/$or/$nor must be a nonempty array
+Wed Jun 21 2023  19:12:33 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:12:33 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:12:37 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:12:37 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:13:53 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:13:53 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:13:54 [right meow!] info: globalErrorHandler $and/$or/$nor must be a nonempty array
+Wed Jun 21 2023  19:21:17 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:21:17 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:24:49 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:24:49 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:26:6 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:26:6 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:26:10 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:26:10 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:28:32 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:28:32 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:30:10 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:30:10 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:31:30 [right meow!] info: globalErrorHandler Cannot read properties of undefined (reading '$and')
+Wed Jun 21 2023  19:31:40 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:31:40 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:31:40 [right meow!] info: globalErrorHandler Cannot read properties of undefined (reading '$and')
+Wed Jun 21 2023  19:31:45 [right meow!] info: globalErrorHandler Cannot read properties of undefined (reading '$and')
+Wed Jun 21 2023  19:32:0 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:32:0 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:32:3 [right meow!] info: globalErrorHandler Cannot read properties of undefined (reading '$and')
+Wed Jun 21 2023  19:32:22 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:32:22 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:32:22 [right meow!] info: globalErrorHandler $and/$or/$nor must be a nonempty array
+Wed Jun 21 2023  19:32:37 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:32:37 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:32:38 [right meow!] info: globalErrorHandler $and/$or/$nor must be a nonempty array
+Wed Jun 21 2023  19:32:52 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:32:52 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:32:53 [right meow!] info: globalErrorHandler $and/$or/$nor must be a nonempty array
+Wed Jun 21 2023  19:33:8 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:33:8 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:33:13 [right meow!] info: globalErrorHandler $and/$or/$nor must be a nonempty array
+Wed Jun 21 2023  19:33:29 [right meow!] info: globalErrorHandler $and/$or/$nor must be a nonempty array
+Wed Jun 21 2023  19:34:10 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:34:10 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:44:52 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:44:52 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:44:55 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:44:55 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:49:58 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:49:58 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:50:3 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:50:3 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:55:11 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:55:11 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  19:55:16 [right meow!] info: database connect successfully
+Wed Jun 21 2023  19:55:16 [right meow!] info: app listening on port 5000

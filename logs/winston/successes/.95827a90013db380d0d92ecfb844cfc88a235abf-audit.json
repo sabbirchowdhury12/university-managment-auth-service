@@ -6,21 +6,6 @@
     "auditLog": "F:\\next_level_university_project\\logs\\winston\\successes\\.95827a90013db380d0d92ecfb844cfc88a235abf-audit.json",
     "files": [
         {
-            "date": 1685959181251,
-            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-05-15-success.log",
-            "hash": "6a6f3ffb2331501d44f8eb24531cb57bc89b46d5d126be1452113d6dd479e69b"
-        },
-        {
-            "date": 1686128107999,
-            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-07-14-success.log",
-            "hash": "3a3db71ec622e7b9ee26aa4d3be72a33b1573b08523dbfdc76c54d4e0cbb3d51"
-        },
-        {
-            "date": 1686128413301,
-            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-07-15-success.log",
-            "hash": "692eef97aaa69df47c9d364a3d4168ece41dd2d827bccaf17a47bcde58e6c1ee"
-        },
-        {
             "date": 1686485828248,
             "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-11-18-success.log",
             "hash": "5267c87002a2bd80f96250e73e3b06ec585f4ec377fe6b441e391d03d27fb4ec"
@@ -74,6 +59,101 @@
             "date": 1686657619514,
             "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-13-18-success.log",
             "hash": "8c950129c654af32a270aa328a2224e0d438f76fd94153d89354b608830aa193"
+        },
+        {
+            "date": 1686666387492,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-13-20-success.log",
+            "hash": "afd3e14d01976255d659e2c1a2af1ae2bebc33f98b9f0d2474ea0b43a3c2540e"
+        },
+        {
+            "date": 1686670318859,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-13-21-success.log",
+            "hash": "20565864c2378a2c42a91873efd701972122a58c13b33f3d492d748d3117e2e8"
+        },
+        {
+            "date": 1686824179296,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-15-16-success.log",
+            "hash": "985502aa5b250c73a87f830844dfe922b81c8c91187d38714254f26c712b8232"
+        },
+        {
+            "date": 1686997538912,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-17-16-success.log",
+            "hash": "014203649a082d3963068b2429527306b0c2829700670ba67422924ef4d6506e"
+        },
+        {
+            "date": 1687014843017,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-17-21-success.log",
+            "hash": "59b81da70ed5a9ce3b58f77890c5e5fa052fab61d9f461ea01e4922b5419ac7c"
+        },
+        {
+            "date": 1687019096293,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-17-22-success.log",
+            "hash": "43caf95a898d669656ea9e50128e2f6efbdb70f873e1aa576a56aacf073d58e9"
+        },
+        {
+            "date": 1687055093897,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-18-08-success.log",
+            "hash": "59c9c4cfb469d57ce991da371aa6d500226031ed1895f3f77d6e6df43121f644"
+        },
+        {
+            "date": 1687082260525,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-18-15-success.log",
+            "hash": "178d0a70127837bfad711c7462bfa60bce2809311f8858f5c8c081e1e61c7542"
+        },
+        {
+            "date": 1687082711406,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-18-16-success.log",
+            "hash": "6ff65bd97046a8cc9a39da91cde3559b6c09d7cd11cd575c5aee84cc944906d8"
+        },
+        {
+            "date": 1687334765343,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-21-14-success.log",
+            "hash": "72dc248705491d44b09d197991d2d81f7684ba5de9cb7aaf0a4c28f9bc96e80e"
+        },
+        {
+            "date": 1687339888702,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-21-15-success.log",
+            "hash": "dce76d66ac8adc53a9ab41d74866c836b38ace2761dc67f1fd4f7fb091e625d5"
+        },
+        {
+            "date": 1687352918744,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-21-19-success.log",
+            "hash": "d408aca0bc31f2125e0f715d87a3a6242cdc72810d511f593ac6e5123d97ff55"
+        },
+        {
+            "date": 1687356084878,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-21-20-success.log",
+            "hash": "3019a2b1eb9af4c2d2ae14b350526f64c3832589d01c7249a088f61d50ecdce0"
+        },
+        {
+            "date": 1687359601011,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-21-21-success.log",
+            "hash": "313af9b58a476a3b744378a488f9fa7d0c3c227386c1d9eb779837af6209b793"
+        },
+        {
+            "date": 1687402618987,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-22-08-success.log",
+            "hash": "0a0e5120cb2d1d7f87eff91d3b6911bf708f45d3847620c46364eb8dd54fa4b8"
+        },
+        {
+            "date": 1687402819332,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-22-09-success.log",
+            "hash": "7f726b0ce42e61fc159cd94643934197bbbdf811651c50ff666a669b1632493d"
+        },
+        {
+            "date": 1687437171284,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-22-18-success.log",
+            "hash": "07cf89f540c331038298990198322337a14d6587cc37bef1afed5bbe6a9ad666"
+        },
+        {
+            "date": 1687439315252,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-22-19-success.log",
+            "hash": "ab8d3980e221f4828905b72d8f46345d28769f0c1f4a23c54a40acb82a2ba511"
+        },
+        {
+            "date": 1687443099262,
+            "name": "F:\\next_level_university_project\\logs\\winston\\successes\\um-2023-06-22-20-success.log",
+            "hash": "c566998d119afa3395b6be68f990fd93ebe41c804f953f4002fae4669e6e1d9f"
         }
     ],
     "hashType": "sha256"

@@ -1,0 +1,59 @@
+Wed Jun 21 2023  21:0:1 [right meow!] info: database connect successfully
+Wed Jun 21 2023  21:0:1 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  21:0:21 [right meow!] info: database connect successfully
+Wed Jun 21 2023  21:0:21 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  21:2:12 [right meow!] info: database connect successfully
+Wed Jun 21 2023  21:2:12 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  21:2:22 [right meow!] info: globalErrorHandler [
+  {
+    "received": "05",
+    "code": "invalid_enum_value",
+    "options": [
+      "01",
+      "02",
+      "03"
+    ],
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Invalid enum value. Expected '01' | '02' | '03', received '05'"
+  }
+]
+Wed Jun 21 2023  21:2:41 [right meow!] info: globalErrorHandler [
+  {
+    "code": "custom",
+    "message": "Both title and code required",
+    "path": []
+  }
+]
+Wed Jun 21 2023  21:2:55 [right meow!] info: globalErrorHandler Unexpected string in JSON at position 25
+Wed Jun 21 2023  21:3:3 [right meow!] info: globalErrorHandler [
+  {
+    "received": "summer",
+    "code": "invalid_enum_value",
+    "options": [
+      "Autumn",
+      "Summer",
+      "Fall"
+    ],
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Invalid enum value. Expected 'Autumn' | 'Summer' | 'Fall', received 'summer'"
+  }
+]
+Wed Jun 21 2023  21:8:5 [right meow!] info: database connect successfully
+Wed Jun 21 2023  21:8:5 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  21:8:16 [right meow!] info: database connect successfully
+Wed Jun 21 2023  21:8:16 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  21:8:19 [right meow!] info: globalErrorHandler Invalid code
+Wed Jun 21 2023  21:12:33 [right meow!] info: database connect successfully
+Wed Jun 21 2023  21:12:33 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  21:13:20 [right meow!] info: database connect successfully
+Wed Jun 21 2023  21:13:20 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  21:13:38 [right meow!] info: database connect successfully
+Wed Jun 21 2023  21:13:38 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  21:13:45 [right meow!] info: database connect successfully
+Wed Jun 21 2023  21:13:45 [right meow!] info: app listening on port 5000

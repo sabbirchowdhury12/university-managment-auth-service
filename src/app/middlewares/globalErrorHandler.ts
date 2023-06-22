@@ -6,8 +6,9 @@ import ApiError from '../../errors/ApiError'
 import { errorlogger, logger } from '../../shared/logger'
 import { ZodError } from 'zod'
 import handleZodError from '../../errors/handleZodError'
+import handleCastError from '../../errors/handleCastError'
 
-const globalErrorHandler: ErrorRequestHandler = (error, req, res, next) => {
+const globalErrorHandler: ErrorRequestHandler = (error, req, res) => {
   // eslint-disable-next-line no-unused-expressions
   config.env === 'development'
     ? logger.info('globalErrorHandler', error)
@@ -19,6 +20,11 @@ const globalErrorHandler: ErrorRequestHandler = (error, req, res, next) => {
 
   if (error?.name === 'validationError') {
     const simplifiedError = handleValidationError(error)
+    statusCode = simplifiedError?.statusCode
+    message = simplifiedError?.message
+    errorMessages = simplifiedError?.errorMessages
+  } else if (error.name === 'CastError') {
+    const simplifiedError = handleCastError(error)
     statusCode = simplifiedError?.statusCode
     message = simplifiedError?.message
     errorMessages = simplifiedError?.errorMessages
@@ -62,8 +68,6 @@ const globalErrorHandler: ErrorRequestHandler = (error, req, res, next) => {
     //   res.status(500).json({ error: 'something went wrong' })
     // }
   })
-
-  next()
 }
 
 export default globalErrorHandler

@@ -1,0 +1,34 @@
+Wed Jun 21 2023  20:1:25 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:1:25 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:1:56 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:1:56 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:7:55 [right meow!] info: globalErrorHandler Cast to ObjectId failed for value "648884056b095" (type string) at path "_id" for model "AcademicSemester"
+Wed Jun 21 2023  20:10:0 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:10:0 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:10:0 [right meow!] info: globalErrorHandler Cast to ObjectId failed for value "648884056b095" (type string) at path "_id" for model "AcademicSemester"
+Wed Jun 21 2023  20:17:52 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:17:52 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:17:55 [right meow!] info: globalErrorHandler Cast to ObjectId failed for value "648884056b095" (type string) at path "_id" for model "AcademicSemester"
+Wed Jun 21 2023  20:19:41 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:19:41 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:19:48 [right meow!] info: globalErrorHandler Cast to ObjectId failed for value "648884056b095" (type string) at path "_id" for model "AcademicSemester"
+Wed Jun 21 2023  20:30:26 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:30:26 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:30:37 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:30:37 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:30:42 [right meow!] info: globalErrorHandler Cast to ObjectId failed for value "648884056b095" (type string) at path "_id" for model "AcademicSemester"
+Wed Jun 21 2023  20:30:56 [right meow!] info: globalErrorHandler Cannot set headers after they are sent to the client
+Wed Jun 21 2023  20:31:9 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:31:9 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:56:40 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:56:40 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:58:45 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:58:45 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:59:18 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:59:18 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:59:22 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:59:22 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:59:33 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:59:33 [right meow!] info: app listening on port 5000
+Wed Jun 21 2023  20:59:49 [right meow!] info: database connect successfully
+Wed Jun 21 2023  20:59:49 [right meow!] info: app listening on port 5000

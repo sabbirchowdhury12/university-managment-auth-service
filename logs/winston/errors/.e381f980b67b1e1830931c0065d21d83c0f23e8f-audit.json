@@ -6,21 +6,6 @@
     "auditLog": "F:\\next_level_university_project\\logs\\winston\\errors\\.e381f980b67b1e1830931c0065d21d83c0f23e8f-audit.json",
     "files": [
         {
-            "date": 1685959195185,
-            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-05-15-errors.log",
-            "hash": "901a7f9f0009bc26c789dd1934080691b4b695fb207f885598209252f3edcd06"
-        },
-        {
-            "date": 1686128108030,
-            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-07-14-errors.log",
-            "hash": "61c7d8c589c3bcc7a38e77e76ffb5900d3c1cd23fbc72f4cbb747b7241ccf533"
-        },
-        {
-            "date": 1686128413307,
-            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-07-15-errors.log",
-            "hash": "80b7a4061afa7e6c77b620081f2f7a14a92aea4323916b62b533636a98502d8a"
-        },
-        {
             "date": 1686485828254,
             "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-11-18-errors.log",
             "hash": "e564b3dd5786980050e562051af96516c83996172121325956cccc9275fee7e4"
@@ -74,6 +59,101 @@
             "date": 1686657619520,
             "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-13-18-errors.log",
             "hash": "b62567043896864a9d793d38e6ec7a387779aaaba3ee45a104606c5ca6799f69"
+        },
+        {
+            "date": 1686666387540,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-13-20-errors.log",
+            "hash": "a70217753cc389a420b9aec3b1a42a710a32156d7fe02beda1c097f03baa6598"
+        },
+        {
+            "date": 1686670318870,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-13-21-errors.log",
+            "hash": "8d2f3677eff50d9b16f23a051353cecb4d8a862ef3f0100e2e98a91d33690c08"
+        },
+        {
+            "date": 1686824179302,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-15-16-errors.log",
+            "hash": "cc11ae4ec81ad97e16f3f8d05e5c23f1d8a4119edd7f0c7acbd7d4060440ccf4"
+        },
+        {
+            "date": 1686997539007,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-17-16-errors.log",
+            "hash": "d060cc58c76e5052cadaca16cb6666bda8dfdf77ccc5fa7c7b7d32bf9fcb41ca"
+        },
+        {
+            "date": 1687014843058,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-17-21-errors.log",
+            "hash": "60d04de829347973d83cf979bdc668f667bfa5fa600c2aba7ab3bf3672d23dc7"
+        },
+        {
+            "date": 1687019283319,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-17-22-errors.log",
+            "hash": "df66ab27dc607a1fcbb653c29375fe4ae13bbddbc11e5498d665eb9629ba259d"
+        },
+        {
+            "date": 1687055093922,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-18-08-errors.log",
+            "hash": "543273a7055c9dc3cd97df049f8f29255d3fd483b01f27ab43609674337d7bc3"
+        },
+        {
+            "date": 1687082260539,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-18-15-errors.log",
+            "hash": "182592350736bb9c73d6cb81b778bc2ea3ed94533e768b8ca927869bed679330"
+        },
+        {
+            "date": 1687082666437,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-18-16-errors.log",
+            "hash": "742cc6faa9fc6fac5f04834c49509d389e0ba04c7506407010ca5c926f497a73"
+        },
+        {
+            "date": 1687334765359,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-21-14-errors.log",
+            "hash": "479a2d0f67d6ee920b946c88a5b33d532b991381adecf5ce71f6f1830b5175fa"
+        },
+        {
+            "date": 1687340055823,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-21-15-errors.log",
+            "hash": "39bb13972c50f915b812fc53effd1cd8e34009fe601ce60469f766c0f8d4e654"
+        },
+        {
+            "date": 1687352918750,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-21-19-errors.log",
+            "hash": "288906552545e69be35c75b3ec86afab5d652c72f0a7ee3614df89d16760f06a"
+        },
+        {
+            "date": 1687356084887,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-21-20-errors.log",
+            "hash": "10a71a7f9edc9e6e807dbe2ef6d18ce153961aba8c2bf76b53116d8e97cd775e"
+        },
+        {
+            "date": 1687359601015,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-21-21-errors.log",
+            "hash": "8e3d56162d8b9793b51ea95546569ea1219eb34e4f6e4d0ed85f5197108a1239"
+        },
+        {
+            "date": 1687402618993,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-22-08-errors.log",
+            "hash": "686f4c805b49389e76ed3ab95e700f18d2daa0837660a706132d211d47b39b7f"
+        },
+        {
+            "date": 1687402819337,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-22-09-errors.log",
+            "hash": "6a9182c095088dfc49ad5fd28624fa74602a180a484f78250179ec8ff906a50e"
+        },
+        {
+            "date": 1687437171291,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-22-18-errors.log",
+            "hash": "21daab1a13b90c1f2e1d06b6d6a5eb5eb9ee6b4e7655e3d6f0cde22cd5fc70b1"
+        },
+        {
+            "date": 1687439315261,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-22-19-errors.log",
+            "hash": "4933120a355d08ab7774a6e1bb82b5313bdca926eaf58a408c00c428e9c0836c"
+        },
+        {
+            "date": 1687443099292,
+            "name": "F:\\next_level_university_project\\logs\\winston\\errors\\um-2023-06-22-20-errors.log",
+            "hash": "f146cf3935b06e859f524fa01e6da1e250a832cc544fbd396530758354e40292"
         }
     ],
     "hashType": "sha256"
